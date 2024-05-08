@@ -189,7 +189,7 @@ const Allpages = () => {
                 Logo
               </span>
             </div>
-            {/* Add your menu items here */}
+           
             <div className="flex flex-col flex-1 overflow-y-auto">
               <nav className="flex-1 px-2 py-4 bg-white">
                 <svg
