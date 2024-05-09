@@ -558,7 +558,7 @@ const Allpages = () => {
                     CONSENT
                   </label>
                 </div>
-                <div className="md:w-2/3 mr-10">
+                <div className="md:w-2/3 mr-10 ml-4 ">
                   <div className="flex items-center bg-gray-100 mb-2 border border-gray-300 rounded-md p-3 ">
                     <input
                       type="checkbox"
