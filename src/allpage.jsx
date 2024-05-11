@@ -347,7 +347,7 @@ const Allpages = () => {
       {/* Main content */}
       <div className="flex flex-col flex-1 overflow-y-auto">
         <div className="flex items-center justify-between h-16 bg-white border-b border-gray-200">
-          <div className="flex items-center justify-center space-x-28 mt-5 text-lg ">
+          <div className="flex items-center justify-center space-x-24 mt-8 text-lg ">
             <a href="#" className="nav-link  hidden md:block">
               Home
             </a>
