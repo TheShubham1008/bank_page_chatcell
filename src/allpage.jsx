@@ -17,7 +17,7 @@ const Allpages = () => {
   return (
     <div>
       <div className="flex h-screen bg-white">
-        {/* Sidebar */}
+        {/* Sidebarrrr */}
         <div className="hidden md:flex flex-col w-80 bg-white divide-y ">
           <div className="flex  h-16 bg-white">
             <span className="text-black font-bold mt-5 pl-2 text-lg ">
